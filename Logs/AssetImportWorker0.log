@@ -1,0 +1,1710 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.18f1 (25bdc3efbc2d) revision 2473411'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16221 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Users\ender\Desktop\Unity Editor Sotrage\2021.1.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ender/Desktop/Unity Related/Unity Projects/School Stuff/Game Programming II/Platformer Project/Thing
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59447
+Successfully changed project path to: C:/Users/ender/Desktop/Unity Related/Unity Projects/School Stuff/Game Programming II/Platformer Project/Thing
+C:/Users/ender/Desktop/Unity Related/Unity Projects/School Stuff/Game Programming II/Platformer Project/Thing
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.18f1 (25bdc3efbc2d)
+[Subsystems] Discovering subsystems at path C:/Users/ender/Desktop/Unity Editor Sotrage/2021.1.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ender/Desktop/Unity Related/Unity Projects/School Stuff/Game Programming II/Platformer Project/Thing/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Users/ender/Desktop/Unity Editor Sotrage/2021.1.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/ender/Desktop/Unity Editor Sotrage/2021.1.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/ender/Desktop/Unity Editor Sotrage/2021.1.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/ender/Desktop/Unity Editor Sotrage/2021.1.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002332 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 73.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1335ms)
+		BeginReloadAssembly (70ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (480ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (170ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (229ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (73ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (118ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 67.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.280 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1281ms)
+		BeginReloadAssembly (167ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1050ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (346ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (430ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (100ms)
+				ProcessInitializeOnLoadAttributes (228ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3516 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.5 MB.
+System memory in use after: 151.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3968.
+Total: 3.727400 ms (FindLiveObjects: 0.253500 ms CreateObjectMapping: 0.136000 ms MarkObjects: 3.266000 ms  DeleteObjects: 0.070800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerZoom.cs
+  artifactKey: Guid(3950df57a0260479f98ee99c1c09dd88) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerZoom.cs using Guid(3950df57a0260479f98ee99c1c09dd88) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f29d25425025f6e47e914f8649c650cd') in 0.089215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Prefabs/StartingGame.prefab
+  artifactKey: Guid(93bfd160103e7264691f15bdbff97bfe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/StartingGame.prefab using Guid(93bfd160103e7264691f15bdbff97bfe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1b2cd7ebcb581ea1e0b96c28886e388e') in 0.014297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/ProCamera2D/TransitionFX Textures/dripping.png
+  artifactKey: Guid(52c0eae9fffb947308dc66fa436b1a1a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/TransitionFX Textures/dripping.png using Guid(52c0eae9fffb947308dc66fa436b1a1a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c20e006f65e1a4b53374626b4009e8dc') in 0.051807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/ProCamera2D/TransitionFX Textures/radial_wipe.png
+  artifactKey: Guid(f5d49a80d094747bbbd940d4d2cf4d3e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/TransitionFX Textures/radial_wipe.png using Guid(f5d49a80d094747bbbd940d4d2cf4d3e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9427b56b622eb67248b0637b31a15d89') in 0.009933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Materials/Walls.mat
+  artifactKey: Guid(9a72f11b5b986453e9d43f1c45122ebb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Materials/Walls.mat using Guid(9a72f11b5b986453e9d43f1c45122ebb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5145ff1caab915dfdca6d5a035690e18') in 0.013664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DLimitDistance.cs
+  artifactKey: Guid(37203e96e63794cd38c73c6c90eae460) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DLimitDistance.cs using Guid(37203e96e63794cd38c73c6c90eae460) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ae2c309afbddc4d32ce3be44df9078fb') in 0.009876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemySight.cs
+  artifactKey: Guid(ed3d1f64777f94a48b2b5df7d48b1307) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemySight.cs using Guid(ed3d1f64777f94a48b2b5df7d48b1307) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '450c0b40baa56404858c42bb2ad039be') in 0.008172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerInfluence.cs
+  artifactKey: Guid(f575cd06e33a64fb3b3dee83b1463abd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerInfluence.cs using Guid(f575cd06e33a64fb3b3dee83b1463abd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '024167ef92ff096a9d5833efeb659574') in 0.008666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/PointerInfluence.unity
+  artifactKey: Guid(b7977ed2428324158984155e59c6d339) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/PointerInfluence.unity using Guid(b7977ed2428324158984155e59c6d339) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3683f807c112d43fb188c89b75cf5260') in 0.010101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000763 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_zoom_in.png
+  artifactKey: Guid(1655ff4e4cb3442ce891f307a053fbc0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_zoom_in.png using Guid(1655ff4e4cb3442ce891f307a053fbc0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '15967f853ca0c751942a9855bee4a938') in 0.008646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerBoundariesEditor.cs
+  artifactKey: Guid(6788b08df8aa14da38a16f5c742c1fda) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerBoundariesEditor.cs using Guid(6788b08df8aa14da38a16f5c742c1fda) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '23bd6f0c61c95784b23e214c5037b89e') in 0.011194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_bg.png
+  artifactKey: Guid(e4e2e32188e0247e9b788f76409f0db7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_bg.png using Guid(e4e2e32188e0247e9b788f76409f0db7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a208d1423990651a6e74ab5cdad17138') in 0.008007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DForwardFocusEditor.cs
+  artifactKey: Guid(3618ca0cfb2be4d3c875332d2e7b9831) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DForwardFocusEditor.cs using Guid(3618ca0cfb2be4d3c875332d2e7b9831) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c0ad0df340fafc74832d5db223d1c853') in 0.009858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scripts/ToggleCinematics.cs
+  artifactKey: Guid(a3618a0b065cc4f02bd8ffd86abe19ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scripts/ToggleCinematics.cs using Guid(a3618a0b065cc4f02bd8ffd86abe19ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c266e2720d81e9a1332073bcd8729b6a') in 0.007247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/ProCamera2D/Code/Core/Utils/MinMaxSliderAttribute.cs
+  artifactKey: Guid(43e42d399775d409e8b8cd61655066a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Utils/MinMaxSliderAttribute.cs using Guid(43e42d399775d409e8b8cd61655066a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '66d0b3f515789507cf154050efaadf50') in 0.008992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Gizmos/ProCamera2D/pro_camera_2d_icon.png
+  artifactKey: Guid(67c8808fdefd0477fa15756c5b37b2bc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/pro_camera_2d_icon.png using Guid(67c8808fdefd0477fa15756c5b37b2bc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '85e93912895f371f791bb997cdcd5f4e') in 0.009510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/ProCamera2DEditor.cs
+  artifactKey: Guid(0ec0a4b8d78d046bf847659ecee5ce39) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/ProCamera2DEditor.cs using Guid(0ec0a4b8d78d046bf847659ecee5ce39) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b3e6473b96ba6f6bad70d876f70125f7') in 0.010033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DContentFitterEditor.cs
+  artifactKey: Guid(fef095ad04a364516b1d801635b8d45e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DContentFitterEditor.cs using Guid(fef095ad04a364516b1d801635b8d45e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '56a2f1c1e45e94b9de477c9a2d82bec5') in 0.009159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/MinMaxSliderDrawer.cs
+  artifactKey: Guid(e624fc6d0e51945a1b48d32407f6f06b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/MinMaxSliderDrawer.cs using Guid(e624fc6d0e51945a1b48d32407f6f06b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1da21a982de2f184e5c6bb313e83ff8e') in 0.008144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DPointerInfluenceEditor.cs
+  artifactKey: Guid(3bfe4e8d4677843e6ad26d9a6eb06950) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DPointerInfluenceEditor.cs using Guid(3bfe4e8d4677843e6ad26d9a6eb06950) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2a364368eda9fc99d2ba0b43aa83d940') in 0.006945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/PatrolWaypoint.cs
+  artifactKey: Guid(581369a436eca4fd092a2ab8b8cbf967) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/PatrolWaypoint.cs using Guid(581369a436eca4fd092a2ab8b8cbf967) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9e1ba73d34c8e30f40834b38b563e2de') in 0.008279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/SpeedBasedZoom.unity
+  artifactKey: Guid(3cd609523a81e4682b2c29ce74c2447d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/SpeedBasedZoom.unity using Guid(3cd609523a81e4682b2c29ce74c2447d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b745f6a90b1c0e5a4893849a95036650') in 0.011384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DCinematics.cs
+  artifactKey: Guid(963e3a12d9d70497eb85dd9797a55987) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DCinematics.cs using Guid(963e3a12d9d70497eb85dd9797a55987) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9cc917b460cb025a99327069406e802b') in 0.008339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeWithPreset.cs
+  artifactKey: Guid(500e8c49877254517b8bbf82a8eed57b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeWithPreset.cs using Guid(500e8c49877254517b8bbf82a8eed57b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1c0814f5972a4a1717c4796c9dbadb9f') in 0.008916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_bound_top.png
+  artifactKey: Guid(e1ed9e2df87cb4d93935a418e92da78c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_bound_top.png using Guid(e1ed9e2df87cb4d93935a418e92da78c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '41b7c62b381e5c40db45ca438fc44002') in 0.008908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/MultiTargets.unity
+  artifactKey: Guid(d97512e0aa9b54ff683f262143f4c4de) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/MultiTargets.unity using Guid(d97512e0aa9b54ff683f262143f4c4de) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '64e730f72008bc5d5c6890d6f5d95b13') in 0.009348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Materials/DoorKey.mat
+  artifactKey: Guid(bfb005b795a4c4bfd9005df8a86ac926) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Materials/DoorKey.mat using Guid(bfb005b795a4c4bfd9005df8a86ac926) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '41d0b929aca15f3aecdb8ec85da28fac') in 0.008306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/ProCamera2D/Presets/Shake/PlayerHit.asset
+  artifactKey: Guid(a4b0b25580a794d259ee085755a1b142) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/Shake/PlayerHit.asset using Guid(a4b0b25580a794d259ee085755a1b142) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cf6ce8a48306180a264b033326b187b4') in 0.008888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/ProCamera2D/TransitionFX Textures/clouds.png
+  artifactKey: Guid(74e8842fa592e44f4a11e261de560e88) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/TransitionFX Textures/clouds.png using Guid(74e8842fa592e44f4a11e261de560e88) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1d483a7f56e1e047083bbc2d694126d8') in 0.009445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Scripts/IncreaseVelocityTrigger.cs
+  artifactKey: Guid(ed7596693fc19bb48b5b0c602f03a9c0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/IncreaseVelocityTrigger.cs using Guid(ed7596693fc19bb48b5b0c602f03a9c0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3f13c6c053e0431f3acc45508c2d4534') in 0.006951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000676 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DGeometryBoundariesEditor.cs
+  artifactKey: Guid(f684a511b29e0489bbac1ffbfaa8fdce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DGeometryBoundariesEditor.cs using Guid(f684a511b29e0489bbac1ffbfaa8fdce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6bc5244fd2a86313efcd5086f95f9baa') in 0.007998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Texture.shader
+  artifactKey: Guid(8792cf492ecb54aa989bb9be033e5c62) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Texture.shader using Guid(8792cf492ecb54aa989bb9be033e5c62) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd1ecfa562411125510c0014153bda702') in 0.011064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/ProCamera2D/Code/Core/Utils/Utils.cs
+  artifactKey: Guid(aaa55419b59a448a0a59f9a5197d32f2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Utils/Utils.cs using Guid(aaa55419b59a448a0a59f9a5197d32f2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '88b420dcebe5debc9f77ec819f610432') in 0.007191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Materials/PlayerBullet.mat
+  artifactKey: Guid(42e6351e436b04fff8bb96307cb28bbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Materials/PlayerBullet.mat using Guid(42e6351e436b04fff8bb96307cb28bbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '77274066888d35291e51d7d398b114e8') in 0.009547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Scenes/LoadSceneSuccessful.unity
+  artifactKey: Guid(6044d1832ea8a2743a399ef35318d375) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/LoadSceneSuccessful.unity using Guid(6044d1832ea8a2743a399ef35318d375) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8cd7b8622948d6d0d8272c91dd541b6b') in 0.007956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Pool/Pool.cs
+  artifactKey: Guid(fdbbe6350bcb6474aab904b9d0ae5883) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Pool/Pool.cs using Guid(fdbbe6350bcb6474aab904b9d0ae5883) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1cfbf733dae4abc9301841945fbd5d2a') in 0.007913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scenes/TopDownShooter.unity
+  artifactKey: Guid(719859e214f85449cad085c05f3f9460) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scenes/TopDownShooter.unity using Guid(719859e214f85449cad085c05f3f9460) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '464caccb45fa0527a28e1dd235afd3c0') in 0.009611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_reset.png
+  artifactKey: Guid(ca98fe66164444ca795e766b705532dc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_reset.png using Guid(ca98fe66164444ca795e766b705532dc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e123397ec0c5f63d3a7686e99e107945') in 0.008469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Prefabs/EventHandler.prefab
+  artifactKey: Guid(c79b2079c63630f47907bf1c10dc2e9d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/EventHandler.prefab using Guid(c79b2079c63630f47907bf1c10dc2e9d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '209762fdd2d08ed08d61903e7a810b67') in 0.008348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scripts/ShakeExample.cs
+  artifactKey: Guid(8cd2e53ea3edc4259bea0c8d047e26de) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scripts/ShakeExample.cs using Guid(8cd2e53ea3edc4259bea0c8d047e26de) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '01290ad72439ec1b3a96bfa6556cac90') in 0.008502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Goal.cs
+  artifactKey: Guid(2c2320c78158e4fcb8e9b4d716e08bc3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Goal.cs using Guid(2c2320c78158e4fcb8e9b4d716e08bc3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f5385c2477a0359e3d6616a52f384e3a') in 0.007769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/ProCamera2DEditorResources.cs
+  artifactKey: Guid(c1c9af31e004f4354b965d841a0e3c0e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/ProCamera2DEditorResources.cs using Guid(c1c9af31e004f4354b965d841a0e3c0e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '064946391077d558b7c3a2680a426b67') in 0.010244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/Repeater.unity
+  artifactKey: Guid(05f5069c9d6b3449982971e55a46f6c7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/Repeater.unity using Guid(05f5069c9d6b3449982971e55a46f6c7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b94ed90c647911a9e423d682bd2a7586') in 0.012140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ProCamera2D/Code/Core/MoveInColliderBoundaries.cs
+  artifactKey: Guid(51b351be489d24540af410c7fc90e168) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/MoveInColliderBoundaries.cs using Guid(51b351be489d24540af410c7fc90e168) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd05f1e64a3dec21110581e185970424e') in 0.007772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/ProCamera2D/Timeline/Timeline.unitypackage
+  artifactKey: Guid(ed6c11761d4a848788eacd90287423b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Timeline/Timeline.unitypackage using Guid(ed6c11761d4a848788eacd90287423b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2487ada099fdde2d8de24377b495476e') in 0.030915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/Pixel Perfect/Editor/ProCamera2DPixelPerfectSpriteEditor.cs
+  artifactKey: Guid(88325b3ce424845d081502ac0c530aae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/Pixel Perfect/Editor/ProCamera2DPixelPerfectSpriteEditor.cs using Guid(88325b3ce424845d081502ac0c530aae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6ed2fb53db2b2415228f36b69f4ce808') in 0.008600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/Player.png
+  artifactKey: Guid(4d5c4c487f5bd49f3bbbae6c67e7ed0e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/Player.png using Guid(4d5c4c487f5bd49f3bbbae6c67e7ed0e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'bd19da15a82d976f3eb97c3fb7d83095') in 0.022328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scripts/DollyZoomExample.cs
+  artifactKey: Guid(01bd352462bbf4ec7b9fc10e02116083) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scripts/DollyZoomExample.cs using Guid(01bd352462bbf4ec7b9fc10e02116083) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2f14c41567cce54c94963ecd08fac988') in 0.008245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DParallax.cs
+  artifactKey: Guid(2744f1f739b1144e291cf00c8531e49c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DParallax.cs using Guid(2744f1f739b1144e291cf00c8531e49c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '326b595e139522a6ffd1038d406be8a7') in 0.008215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DRepeater.cs
+  artifactKey: Guid(62bcf12df35894d6eb0b4501842b9249) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DRepeater.cs using Guid(62bcf12df35894d6eb0b4501842b9249) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b413b81fbfc8a01ca515151fb9ec6d9a') in 0.013624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/TransitionsFX.unity
+  artifactKey: Guid(2d016f2e4a71440fba4686d9b05bf34e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/TransitionsFX.unity using Guid(2d016f2e4a71440fba4686d9b05bf34e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '169cb01f3142011bbf9310de98f3362b') in 0.009544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/ForwardFocus.unity
+  artifactKey: Guid(f0f40471d3b13477d9d50fd752168527) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/ForwardFocus.unity using Guid(f0f40471d3b13477d9d50fd752168527) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '729f714c0053db2df51176e2d74fc9d4') in 0.010916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/PixelPerfect.unity
+  artifactKey: Guid(3d6c1ef7930e94470ae5e105f0859d52) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/PixelPerfect.unity using Guid(3d6c1ef7930e94470ae5e105f0859d52) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c27ccc9f7a94ebdf9156b6f3196d054d') in 0.010242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DCameraWindow.cs
+  artifactKey: Guid(d7b9c22c96ab04d479afeb29c7b9bfc4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DCameraWindow.cs using Guid(d7b9c22c96ab04d479afeb29c7b9bfc4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '765facf78f415dbfe7d056b5ee950b8a') in 0.009605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/ProCamera2DPrefs.cs
+  artifactKey: Guid(4e68d0fb62ae848cb910c25da87a659a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/ProCamera2DPrefs.cs using Guid(4e68d0fb62ae848cb910c25da87a659a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '13e19ceb88c95ef96f39f94fb33f4fa0') in 0.010237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ProCamera2D/Timeline/README.txt
+  artifactKey: Guid(4d8d1aff50c134c6f9bd323f4d4bf66f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Timeline/README.txt using Guid(4d8d1aff50c134c6f9bd323f4d4bf66f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ed44f784e3661738d398d1b02a15ed15') in 0.011796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Prefabs/DoorKey.prefab
+  artifactKey: Guid(e3fe495906b754fc696fee61325754a9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Prefabs/DoorKey.prefab using Guid(e3fe495906b754fc696fee61325754a9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2c9361496dcafa29da7ac590a5902317') in 0.007233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/Letterbox/ProCamera2DLetterbox.cs
+  artifactKey: Guid(1f6c9f1aed605415dbee05337f61d59a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/Letterbox/ProCamera2DLetterbox.cs using Guid(1f6c9f1aed605415dbee05337f61d59a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '23606fbd7b4d13701454e0463e268b60') in 0.008869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Models/Materials/mapping_grid_color_512.mat
+  artifactKey: Guid(14bef3c54b5a14c38a73312e6c6b4461) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Models/Materials/mapping_grid_color_512.mat using Guid(14bef3c54b5a14c38a73312e6c6b4461) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '12c74563a9659deb0a017e274554bdb5') in 0.012137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/ProCamera2D/Presets/Shake/GunShot.asset
+  artifactKey: Guid(6c47cdba9ce634971ba9d84eb91de2d4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/Shake/GunShot.asset using Guid(6c47cdba9ce634971ba9d84eb91de2d4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3fdef056a0911c647f96113d37ca43af') in 0.008132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/ProCamera2D/Presets/ConstantShake/HandheldSoft.asset
+  artifactKey: Guid(892e7a55ce003499d8f72636131605c7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/ConstantShake/HandheldSoft.asset using Guid(892e7a55ce003499d8f72636131605c7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '070e405afdbca101c01fb8509655fdaf') in 0.012319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DPixelPerfectEditor.cs
+  artifactKey: Guid(17ae8481c7b584e1cae66c666bdf480f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DPixelPerfectEditor.cs using Guid(17ae8481c7b584e1cae66c666bdf480f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2bf06b3a05e4c33221d5c35acfadd02e') in 0.007957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/ProCamera2D/Code/Core/Utils/PrefsData.cs
+  artifactKey: Guid(223eb64f1d6c540d3a207a36649b582f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Utils/PrefsData.cs using Guid(223eb64f1d6c540d3a207a36649b582f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0fd35ccd32f616a23a9af8e38b12c96e') in 0.013377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerRailsEditor.cs
+  artifactKey: Guid(64990ab6dd6114e4eb011e7db84fa6e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerRailsEditor.cs using Guid(64990ab6dd6114e4eb011e7db84fa6e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f8f76bb0ea3fa12e937065866d2b5aec') in 0.012713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/GeometryBoundaries.unity
+  artifactKey: Guid(cbe55b72757f14558903100b5d494e0d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/GeometryBoundaries.unity using Guid(cbe55b72757f14558903100b5d494e0d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '58e9ee8ce62baef29a11348ea73b0292') in 0.015900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_start.png
+  artifactKey: Guid(146c492a637114b3ba06020960109be8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_start.png using Guid(146c492a637114b3ba06020960109be8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dfc89b844f5b53f3ffee28ae2c10538a') in 0.010014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DAdjustCameraTargetInfluence.cs
+  artifactKey: Guid(573e5a847843e4d92897b6f8a2f9c405) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DAdjustCameraTargetInfluence.cs using Guid(573e5a847843e4d92897b6f8a2f9c405) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9891799e9239a918720e46aa86dcc41d') in 0.011636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/ProCamera2D/ProCamera2D.cs
+  artifactKey: Guid(8b8c96e2cdc154e848a3d9fe62464d42) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/ProCamera2D.cs using Guid(8b8c96e2cdc154e848a3d9fe62464d42) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '440fbdcbf012a4e81a911c1e232448a6') in 0.010806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_zoom_out.png
+  artifactKey: Guid(55ce5031874ea40ecb3c0571a60df10e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_zoom_out.png using Guid(55ce5031874ea40ecb3c0571a60df10e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '605dde968f6275f8f08375bc08d04dee') in 0.010241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Prefabs/IncreaseVelocityBox.prefab
+  artifactKey: Guid(59eda7d5da0c2804b9b3df1b29651a6d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/IncreaseVelocityBox.prefab using Guid(59eda7d5da0c2804b9b3df1b29651a6d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '66e9578176592b6d14b7b44fbf4f67ee') in 0.009717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/ProCamera2D/Presets/ConstantShake/HandheldHard.asset
+  artifactKey: Guid(b2aa3dfc83cc4461c921e8dfa7575854) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/ConstantShake/HandheldHard.asset using Guid(b2aa3dfc83cc4461c921e8dfa7575854) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '33dc7af2ff1667ff0556d124ab66397b') in 0.010086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/ProCamera2D/README.txt
+  artifactKey: Guid(7db4132bb82b04a4eaef6b3608c53513) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/README.txt using Guid(7db4132bb82b04a4eaef6b3608c53513) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dbaf82eb35225a9a9b5c91359ef4dc58') in 0.005407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/PanAndZoom.unity
+  artifactKey: Guid(194513394bcd24b8bafd392046bb2a72) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/PanAndZoom.unity using Guid(194513394bcd24b8bafd392046bb2a72) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '17eb8209fe6f837a836dd350f0a4a0f3') in 0.009095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Shaders/Ground.mat
+  artifactKey: Guid(507073a4e6b7ea44fbe563c5af72bdd2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Shaders/Ground.mat using Guid(507073a4e6b7ea44fbe563c5af72bdd2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '74d740d06aba7b03a3f5729888a6738c') in 0.007950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DContentFitter.cs
+  artifactKey: Guid(3ba4e7c9ccf634257ad7d8b2a2501c9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DContentFitter.cs using Guid(3ba4e7c9ccf634257ad7d8b2a2501c9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '16795e7dcea6e0c17272e141462f9f0f') in 0.007832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/ProCamera2D/Code/Core/IPreMover.cs
+  artifactKey: Guid(32bf46b1206e344308f4d7b271c6676c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/IPreMover.cs using Guid(32bf46b1206e344308f4d7b271c6676c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9ccea97ceace6aefa39e7ff646dcccb1') in 0.008496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/Ground.png
+  artifactKey: Guid(57a291d06bb28429b96bf477524b59f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/Ground.png using Guid(57a291d06bb28429b96bf477524b59f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c1fdf7997e37dfd6217a2b3a520737e2') in 0.009601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/Square.png
+  artifactKey: Guid(508a7439878cb470980c7c380e33c312) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/Square.png using Guid(508a7439878cb470980c7c380e33c312) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2b6f57db608fdd607ec2838994d0cdb8') in 0.010588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/LimitSpeed.unity
+  artifactKey: Guid(4dd0a44a1b965401fb22f4dc114818ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/LimitSpeed.unity using Guid(4dd0a44a1b965401fb22f4dc114818ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4835f3b6c1c742a432dfaf98f58ec6bb') in 0.008792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/SwitchCameraProjection.cs
+  artifactKey: Guid(88ab6402ebb68412da5b3495599e3931) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/SwitchCameraProjection.cs using Guid(88ab6402ebb68412da5b3495599e3931) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2946fd2e1241abde3efe32a4a53c235d') in 0.008417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/ProCamera2D/Code/Core/ISizeDeltaChanger.cs
+  artifactKey: Guid(434498afe170f4dd0bb5bab7925edfbc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/ISizeDeltaChanger.cs using Guid(434498afe170f4dd0bb5bab7925edfbc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fbe45a2b369f52ffe17077e78f362c3d') in 0.009617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/NumericBoundaries.unity
+  artifactKey: Guid(b57cc4fbea06b49febaa6bab181e922f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/NumericBoundaries.unity using Guid(b57cc4fbea06b49febaa6bab181e922f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b06ce479978fc9a493be6dd8e3055d63') in 0.009042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DCinematicsEditor.cs
+  artifactKey: Guid(9a2e65b71725e4c5bbf002444e31c9aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DCinematicsEditor.cs using Guid(9a2e65b71725e4c5bbf002444e31c9aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5db54eba963ac43ac4cee40ec753b9d8') in 0.007981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/ProCamera2D/Presets/Shake/LargeExplosion.asset
+  artifactKey: Guid(865c0998fbb884706bc8e9216bc17d0c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/Shake/LargeExplosion.asset using Guid(865c0998fbb884706bc8e9216bc17d0c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5b61702c4e186fe278071649c216c0d3') in 0.009524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Models/Pyramid.fbx
+  artifactKey: Guid(860b5946caa9143b098b605936d9c739) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Models/Pyramid.fbx using Guid(860b5946caa9143b098b605936d9c739) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7ca04c643f2928255087a65d1f4d2260') in 0.027896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DSpeedBasedZoomEditor.cs
+  artifactKey: Guid(e012d54185d0c4a7897bbf0d72bd3578) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DSpeedBasedZoomEditor.cs using Guid(e012d54185d0c4a7897bbf0d72bd3578) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '858ac8f60372b5ee02774e1a73d0a079') in 0.007065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Scripts/IncreaseJumpHeightMultiplier.cs
+  artifactKey: Guid(eeefe2604ca64d74796221d252f505db) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/IncreaseJumpHeightMultiplier.cs using Guid(eeefe2604ca64d74796221d252f505db) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '917d384db3e672b82f4e7d2ec09b6b8f') in 0.008198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/DollyZoom.unity
+  artifactKey: Guid(2ad92c119963a49ae8a5b497b6308baa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/DollyZoom.unity using Guid(2ad92c119963a49ae8a5b497b6308baa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e8bffbf765f68e7dde89aabe15ddd6d9') in 0.008246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DTransitionsFXEditor.cs
+  artifactKey: Guid(0f289b62546754160b0811408dbbdcee) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DTransitionsFXEditor.cs using Guid(0f289b62546754160b0811408dbbdcee) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e37872eac36ed96f83db11365a7be947') in 0.008214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/ProCamera2D/Code/Core/IPositionOverrider.cs
+  artifactKey: Guid(b7f0378f234734fe1bcee70739d44960) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/IPositionOverrider.cs using Guid(b7f0378f234734fe1bcee70739d44960) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '747e7ff70445b1d8e9c764923307e669') in 0.007083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DRooms.cs
+  artifactKey: Guid(30112d3b8decd43b5bf051e67694b027) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DRooms.cs using Guid(30112d3b8decd43b5bf051e67694b027) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '05b714db9e70156fbddd4cfc0db19234') in 0.008619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DForwardFocus.cs
+  artifactKey: Guid(c17020d0b9b514c5ea3b8251d0c4ee6a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DForwardFocus.cs using Guid(c17020d0b9b514c5ea3b8251d0c4ee6a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9be471e1d2e19cf33810a4d904e791ab') in 0.006888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/Rooms.unity
+  artifactKey: Guid(a1716281f2d934a97b0a8daad661d45f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/Rooms.unity using Guid(a1716281f2d934a97b0a8daad661d45f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '936b6909879e16d288722e8bb93043a1') in 0.009411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Prefabs/Level.prefab
+  artifactKey: Guid(f041036210ca24c12ad93ebdb067910f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Prefabs/Level.prefab using Guid(f041036210ca24c12ad93ebdb067910f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4cf91433646d5d1d97c5d66541067a9d') in 0.009020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DApplyInfluencesTimed.cs
+  artifactKey: Guid(81f62777dd15e4b4fad8f4e56cf0c6f0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DApplyInfluencesTimed.cs using Guid(81f62777dd15e4b4fad8f4e56cf0c6f0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1d1ebf97fecc6aa05dc8772899632241') in 0.007186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/RenderPipelineDefines.cs
+  artifactKey: Guid(77fbe9dcb24d4479e8b96aed7c8648f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/RenderPipelineDefines.cs using Guid(77fbe9dcb24d4479e8b96aed7c8648f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2672c33ae87e4c9f1dfa9cd2953d13ef') in 0.009360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/Player_Pixel.png
+  artifactKey: Guid(0745a094db1314e99aaa1e1c7e5db023) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/Player_Pixel.png using Guid(0745a094db1314e99aaa1e1c7e5db023) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '157667f74a9798a43e0a10dc1e6671ae') in 0.010052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerInfluenceEditor.cs
+  artifactKey: Guid(2a7f82f941621444d868baab8d8ce85e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerInfluenceEditor.cs using Guid(2a7f82f941621444d868baab8d8ce85e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c16e260cd2da7dde24d1eead5d57e19a') in 0.008127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/CameraWindow.unity
+  artifactKey: Guid(bed362fce17764af1a388f9fb4be62b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/CameraWindow.unity using Guid(bed362fce17764af1a388f9fb4be62b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '74e259b72314710f5b180b9426ac2b8b') in 0.008939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Scenes/Totorial.unity
+  artifactKey: Guid(201b40044bec1e74a9350fdef25673ad) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Totorial.unity using Guid(201b40044bec1e74a9350fdef25673ad) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7cf05e595e7e2522adc17db31ac799c8') in 0.007836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/Images/inspector_header.png
+  artifactKey: Guid(9d9bbd7169db4417e9f267c19416e9ed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/Images/inspector_header.png using Guid(9d9bbd7169db4417e9f267c19416e9ed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e8d08f09b25dacbbcab9cc31101125ed') in 0.008752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DPanAndZoomEditor.cs
+  artifactKey: Guid(4bb42435cc3584998b8842101e1b3873) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DPanAndZoomEditor.cs using Guid(4bb42435cc3584998b8842101e1b3873) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0350a92f77b603587ab32b94d6a735d2') in 0.006760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DLimitSpeedEditor.cs
+  artifactKey: Guid(0c78eb40490804974bdabc9e747d1684) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DLimitSpeedEditor.cs using Guid(0c78eb40490804974bdabc9e747d1684) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cb20546b406ac4dcd8320ef1ec5fbe19') in 0.008708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Materials/MountainMedium.mat
+  artifactKey: Guid(02e2b15427cd643359e5865c915a314e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Materials/MountainMedium.mat using Guid(02e2b15427cd643359e5865c915a314e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '73406bbd1106525e9ddfea2fecf6bd02') in 0.007778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/ProCamera2DHierarchyIcon.cs
+  artifactKey: Guid(abb08b691ffc4432797b3ffb5351650b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/ProCamera2DHierarchyIcon.cs using Guid(abb08b691ffc4432797b3ffb5351650b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c9b884099b2623cafbd9f5ab0cc53eea') in 0.009132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_rails_enable.png
+  artifactKey: Guid(adf00fb5c6ed14079aa257db55df3e14) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_rails_enable.png using Guid(adf00fb5c6ed14079aa257db55df3e14) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '63817fc18804e71fcfdd259af991ad1a') in 0.006944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Shutters.shader
+  artifactKey: Guid(be515eab61ea9430993a1c07592799ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Shutters.shader using Guid(be515eab61ea9430993a1c07592799ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a070d3d4272c1bda8278538320a0d620') in 0.010800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DRails.cs
+  artifactKey: Guid(270fcd4170a9e48c68cb78c7df1f5b56) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DRails.cs using Guid(270fcd4170a9e48c68cb78c7df1f5b56) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fd757b60496e49e77bcce715e007eb02') in 0.008565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Door.cs
+  artifactKey: Guid(2b53b6a15120b4dae8abfc6ff085dd41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Door.cs using Guid(2b53b6a15120b4dae8abfc6ff085dd41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a1418a005273360ee402921e96a1f2bd') in 0.007098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/GameOver.cs
+  artifactKey: Guid(b1945e48821474dcbbc0e25d3609bc99) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/GameOver.cs using Guid(b1945e48821474dcbbc0e25d3609bc99) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '31d65ba4148c91c10ca2dc81d1b3dc3f') in 0.007381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Prefabs/BulletEnemy.prefab
+  artifactKey: Guid(f07df152df2e64e71901a65af673ba1a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Prefabs/BulletEnemy.prefab using Guid(f07df152df2e64e71901a65af673ba1a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4c70aa66b1bfd3d529a636df528ed6a9') in 0.007766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/CleanupMissingScripts.cs
+  artifactKey: Guid(9598d346dbf444e8fb812b1274e34da2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/CleanupMissingScripts.cs using Guid(9598d346dbf444e8fb812b1274e34da2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ec4aa66b9e24b7d3611ccd989400fec4') in 0.007707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Editor/ExportPackage.cs
+  artifactKey: Guid(f7dc3d604c1dd4b61915ee3733564977) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Editor/ExportPackage.cs using Guid(f7dc3d604c1dd4b61915ee3733564977) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2ff5d1516c8e314e0f6d2dd13e6a936f') in 0.007365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/ProCamera2D/Code/Core/EnumMovementAxis.cs
+  artifactKey: Guid(2156a7911234749219b1562c116fbae8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/EnumMovementAxis.cs using Guid(2156a7911234749219b1562c116fbae8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1956c62873009b6eaf67cb392faa4a58') in 0.006623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/Images/user-guide-link.png
+  artifactKey: Guid(d3fac318a474644ca9989da2d8125c11) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/Images/user-guide-link.png using Guid(d3fac318a474644ca9989da2d8125c11) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7e264710109f5dbe44dfc925f4c84600') in 0.007686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeConstantStop.cs
+  artifactKey: Guid(1473f49229128448dba5e9be80b7e7a5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeConstantStop.cs using Guid(1473f49229128448dba5e9be80b7e7a5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '758d32450d6dfef3810f9134f35c3541') in 0.007219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyAttack.cs
+  artifactKey: Guid(e39f48ce520924bc68288749482d359f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyAttack.cs using Guid(e39f48ce520924bc68288749482d359f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1c315f6c720a5acd42b6d76aab807b85') in 0.009659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DCinematicsToggle.cs
+  artifactKey: Guid(8e89e7fbac11a47e1afc10ab8e50d5ee) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DCinematicsToggle.cs using Guid(8e89e7fbac11a47e1afc10ab8e50d5ee) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ed4eebb95a290e73a9a6e8836e500eb2') in 0.007201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/TriggerZoom.unity
+  artifactKey: Guid(c11098a2130b04037af77995af3ce1ac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/TriggerZoom.unity using Guid(c11098a2130b04037af77995af3ce1ac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '030e7e2f821a9489f6805ee844c583ca') in 0.008100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/ProCamera2D/Code/Core/CameraTarget.cs
+  artifactKey: Guid(3e0fcaf74434343259050f5f11d998f0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/CameraTarget.cs using Guid(3e0fcaf74434343259050f5f11d998f0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4549b49d4b78d6af5e0fff5bf8a63034') in 0.008384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DTransitionsFX.cs
+  artifactKey: Guid(d1eca57db7d394266ae024997acf4456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DTransitionsFX.cs using Guid(d1eca57db7d394266ae024997acf4456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd416efe8330f58a10a2ddffcb885729e') in 0.008310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/ProCamera2D/Code/Core/KDTree.cs
+  artifactKey: Guid(d9a1cf7ede4d947249edafbcf3c2bbed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/KDTree.cs using Guid(d9a1cf7ede4d947249edafbcf3c2bbed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6b68da3fa7b4a8a8a8f23ade0004a211') in 0.008280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scripts/RoomsEventsExample.cs
+  artifactKey: Guid(a96c73d73ba1b4d54b98533b114212d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scripts/RoomsEventsExample.cs using Guid(a96c73d73ba1b4d54b98533b114212d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b090413d21a588b7a230f441417f6ece') in 0.008774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DZoomToFitTargets.cs
+  artifactKey: Guid(60d259ae680f345ccb8abad710dd1263) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DZoomToFitTargets.cs using Guid(60d259ae680f345ccb8abad710dd1263) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0f9ee2d245a644b501bcff859455fc77') in 0.008153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DPanAndZoom.cs
+  artifactKey: Guid(e1f4d7058517540a6926e80c9fef48db) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DPanAndZoom.cs using Guid(e1f4d7058517540a6926e80c9fef48db) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cce9811fcdde30ada675a59fd88896c0') in 0.009012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_bound_left.png
+  artifactKey: Guid(d7d83fbcde0de4dc294b4d1592e21d7e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_bound_left.png using Guid(d7d83fbcde0de4dc294b4d1592e21d7e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7683e91cddd7567fb1c7f72ce94aa819') in 0.006943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/ProCamera2D/TransitionFX Textures/circles.png
+  artifactKey: Guid(18b2f3f5a390c41228b5f04c5e8e6ca5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/TransitionFX Textures/circles.png using Guid(18b2f3f5a390c41228b5f04c5e8e6ca5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '000f9b0a65a95bec457cc0f27a451c65') in 0.006611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DRailsEditor.cs
+  artifactKey: Guid(88d97cb0ec705473c9e7fc2690ee962d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DRailsEditor.cs using Guid(88d97cb0ec705473c9e7fc2690ee962d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '61ee3d42fd61a4b72a342e5aa05d7880') in 0.010155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_rails_disable.png
+  artifactKey: Guid(389f2e7028353462296239a32f377f8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_rails_disable.png using Guid(389f2e7028353462296239a32f377f8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '55685d1fd846b6ab9f3e796440dce10a') in 0.007359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Credits/Credits.txt
+  artifactKey: Guid(cfda929f43acb7b46a88e8543a39eb1a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Credits/Credits.txt using Guid(cfda929f43acb7b46a88e8543a39eb1a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9eb3b2b8fabc60b6e0fc15a7e6b71213') in 0.008110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DApplyInfluence.cs
+  artifactKey: Guid(611af58ca60fe412991c4986aac7a75c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DApplyInfluence.cs using Guid(611af58ca60fe412991c4986aac7a75c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f4e64d356d13aa6ac75d301a4bb5e047') in 0.007776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/FsmStateActionProCamera2DBase.cs
+  artifactKey: Guid(33edf1f9303c74077bb85600276840bb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/FsmStateActionProCamera2DBase.cs using Guid(33edf1f9303c74077bb85600276840bb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '928e61d800551e7e5ba9fe2952db5370') in 0.009985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DPixelPerfect.cs
+  artifactKey: Guid(17577239430844efcbdda516df8c1f8e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DPixelPerfect.cs using Guid(17577239430844efcbdda516df8c1f8e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '33ce930dec022c04cf551b2a06bdd004') in 0.010897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scripts/ToggleTransitionsFX.cs
+  artifactKey: Guid(4bc19aae82b08401e825be036ddbe938) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scripts/ToggleTransitionsFX.cs using Guid(4bc19aae82b08401e825be036ddbe938) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1894003af8202386d3b1e52a6bc4cee4') in 0.008053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Prefabs/Bullet.prefab
+  artifactKey: Guid(7cdf47c5efded40e7bba70671cbcc443) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Prefabs/Bullet.prefab using Guid(7cdf47c5efded40e7bba70671cbcc443) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3ff6244e4bac4e0b0b60890492f3192d') in 0.007816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/Letterbox/Resources/Letterbox.shader
+  artifactKey: Guid(793e285a2632244d6bfaf202e00b88cd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/Letterbox/Resources/Letterbox.shader using Guid(793e285a2632244d6bfaf202e00b88cd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '477f288b2500e49472e1ccd413f70174') in 0.009701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerZoomEditor.cs
+  artifactKey: Guid(c8db0f2a5b4c4434686eb71f1ee594a1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/Editor/ProCamera2DTriggerZoomEditor.cs using Guid(c8db0f2a5b4c4434686eb71f1ee594a1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '69bdda1c65bef5740d55e2404336505d') in 0.008813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Documents/Platformer Project TDD.docx
+  artifactKey: Guid(8e98aff6782fd9a4aa731059ff0b111d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Documents/Platformer Project TDD.docx using Guid(8e98aff6782fd9a4aa731059ff0b111d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fed44862f158486a61790439b2ffebb6') in 0.014587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_exclusive_free.png
+  artifactKey: Guid(d999cb17d1edf41129203a5e3174c832) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_exclusive_free.png using Guid(d999cb17d1edf41129203a5e3174c832) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9eaf2eea3bfd8fdbc7232bd9eba57d1a') in 0.008916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeConstantWithPreset.cs
+  artifactKey: Guid(c6967cb7de0464c6da2e05c7bd01fa47) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeConstantWithPreset.cs using Guid(c6967cb7de0464c6da2e05c7bd01fa47) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '089aacbfe261ddea18f052a9c2189460') in 0.007781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DNumericBoundariesEditor.cs
+  artifactKey: Guid(05dea446992c0436c842613c03fd93f0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DNumericBoundariesEditor.cs using Guid(05dea446992c0436c842613c03fd93f0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '60bb99b8e0b810dd819cd8c72892a3ba') in 0.008068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DParallaxEditor.cs
+  artifactKey: Guid(5a43d15fb3d5b4ac788c748677487bbc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DParallaxEditor.cs using Guid(5a43d15fb3d5b4ac788c748677487bbc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b3ad367d856dbf4816de14969f870354') in 0.008238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DZoomToFitTargetsEditor.cs
+  artifactKey: Guid(40c11ebcbf4f742db98560cf2b003bc4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DZoomToFitTargetsEditor.cs using Guid(40c11ebcbf4f742db98560cf2b003bc4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '70a8e786b40c815259562e78dc01bebb') in 0.008022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Circle.shader
+  artifactKey: Guid(29bf35b79f6a14a3d95360620dfca7b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Circle.shader using Guid(29bf35b79f6a14a3d95360620dfca7b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '757be65c022547901285c6331fce85d9') in 0.007794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Scripts/MultiplierHolder.cs
+  artifactKey: Guid(9de81798dd958a945a9d87a5c843ce47) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/MultiplierHolder.cs using Guid(9de81798dd958a945a9d87a5c843ce47) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '746ee891ee2654b63ae0f87e1c47e6dd') in 0.007995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DPointerInfluence.cs
+  artifactKey: Guid(e424e3d1203784bf28130fc345b6577b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DPointerInfluence.cs using Guid(e424e3d1203784bf28130fc345b6577b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9f4ede9d2a4ac9de4233fe2d6190906a') in 0.008710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Documents/Platformer Project GDD.docx
+  artifactKey: Guid(48db8a024727b844793200f11b60f1c8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Documents/Platformer Project GDD.docx using Guid(48db8a024727b844793200f11b60f1c8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9c142973602cf6039fdf989c4528b6f5') in 0.008152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ProCamera2D/Code/Core/EnumUpdateType.cs
+  artifactKey: Guid(40bf6ecc65d754092959189e66e01906) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/EnumUpdateType.cs using Guid(40bf6ecc65d754092959189e66e01906) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '080a3a9362d8b38251b45966a6728a43') in 0.008935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Textures/ground.png
+  artifactKey: Guid(12f15997efca24e088ea811539131484) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Textures/ground.png using Guid(12f15997efca24e088ea811539131484) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9b9a9a4d50e570e4e1b406bd62af2476') in 0.008647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ProCamera2D/Code/Core/BasePC2D.cs
+  artifactKey: Guid(4eeae9fa8562d4f4eb938bab965d71ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/BasePC2D.cs using Guid(4eeae9fa8562d4f4eb938bab965d71ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b870f08afe98f5e60c52a4c7f27d90cb') in 0.008772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/0.png
+  artifactKey: Guid(ed6174cfc03074afa9523d9500a2c7c0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/0.png using Guid(ed6174cfc03074afa9523d9500a2c7c0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cb925c4eeaad454470b0185be7078da2') in 0.010421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/Rails.unity
+  artifactKey: Guid(1e6ac0c4b82164495ae7fa51153cb744) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/Rails.unity using Guid(1e6ac0c4b82164495ae7fa51153cb744) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '35070e0e20d38f67f476f41a57f5e667') in 0.008797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/Background_Pixel.png
+  artifactKey: Guid(87d37e6637d024409b971bd41fd92772) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/Background_Pixel.png using Guid(87d37e6637d024409b971bd41fd92772) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '77cef6795598616910aec99cb858024d') in 0.010532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeWithValues.cs
+  artifactKey: Guid(a3f7ef1b1bb374a619be19afd989a5e0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeWithValues.cs using Guid(a3f7ef1b1bb374a619be19afd989a5e0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0e154808072541e71d5aac7797f79f95') in 0.008631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Prefabs/NextLevelTrigger.prefab
+  artifactKey: Guid(5a761b2e7420b9f47816400a43b63dc9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/NextLevelTrigger.prefab using Guid(5a761b2e7420b9f47816400a43b63dc9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd285901bea2c4eda77ab2210530d27e2') in 0.007613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DSpeedBasedZoom.cs
+  artifactKey: Guid(852aabd699fd842b392ca48e4955f079) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DSpeedBasedZoom.cs using Guid(852aabd699fd842b392ca48e4955f079) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a3586f5e48a168f422ca959b1daccd39') in 0.006859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/ContentFitter.unity
+  artifactKey: Guid(a38e9e852031c45dcb7aafc2dceb60f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/ContentFitter.unity using Guid(a38e9e852031c45dcb7aafc2dceb60f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '278a5d7f19c6d73bff24e1f8639af2a5') in 0.010269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/FollowSmoothness.unity
+  artifactKey: Guid(ec425bcc4ae964e31978977e7805ce30) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/FollowSmoothness.unity using Guid(ec425bcc4ae964e31978977e7805ce30) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ffbdb7fbaafbd8a9c63918e1ac6f4258') in 0.011546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/ProCamera2D/TransitionFX Textures/horizontal_bands.png
+  artifactKey: Guid(9e828ce47d2ec40ee97bce3fe33af3ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/TransitionFX Textures/horizontal_bands.png using Guid(9e828ce47d2ec40ee97bce3fe33af3ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '345ab3cb39f29769937757cba9700856') in 0.007866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DShakeEditor.cs
+  artifactKey: Guid(17b4ecbd0af5d4d6ab565d28f4301e8d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DShakeEditor.cs using Guid(17b4ecbd0af5d4d6ab565d28f4301e8d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3284b7cef66488a1d38c72d3494446b6') in 0.008658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/URP/2DRenderPipeline.asset
+  artifactKey: Guid(95c449f103c521749bb2042b3873f3cb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/URP/2DRenderPipeline.asset using Guid(95c449f103c521749bb2042b3873f3cb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1de0226837f00a82cc0f037693149d52') in 0.007513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/Background.png
+  artifactKey: Guid(e11d579b5508f47198cf5697ec3f372d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/Background.png using Guid(e11d579b5508f47198cf5697ec3f372d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd25784d74c738dd3a0f7f9111927860a') in 0.009806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Materials/Player.mat
+  artifactKey: Guid(14b7e71a903b74a098bd198681671e11) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Materials/Player.mat using Guid(14b7e71a903b74a098bd198681671e11) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '225d2c9d2b42caf6ef2a89157c7edcb8') in 0.008769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/URP/2DRenderPipeline_Renderer.asset
+  artifactKey: Guid(47346a405f03d434c8839703f71b721e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/URP/2DRenderPipeline_Renderer.asset using Guid(47346a405f03d434c8839703f71b721e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '86fd12490bab5ff27e44671f84db1957') in 0.009936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DShake.cs
+  artifactKey: Guid(9ac0ec3d6ad5f4a3d9d184bc3773a3a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DShake.cs using Guid(9ac0ec3d6ad5f4a3d9d184bc3773a3a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'af79b2b4b8feabd583dfa74789c19271') in 0.009971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DRoomsEditor.cs
+  artifactKey: Guid(a42ce3ffdbc1649c7a69d7b003ed9587) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DRoomsEditor.cs using Guid(a42ce3ffdbc1649c7a69d7b003ed9587) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7777e72256ffc072e3ec92711730455a') in 0.009795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Materials/Ground.mat
+  artifactKey: Guid(fcce2e062a9bb46b589bcdd72d36441c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Materials/Ground.mat using Guid(fcce2e062a9bb46b589bcdd72d36441c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '06a99647862b8319278422c83528a619') in 0.007161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/ObjectRotate.cs
+  artifactKey: Guid(5db7cf19aaa52443f857891cf90cb43e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/ObjectRotate.cs using Guid(5db7cf19aaa52443f857891cf90cb43e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '68dc48187b88f9e8e22f6c5967dfc1ba') in 0.007870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeStop.cs
+  artifactKey: Guid(b191bb069dcb4420195550be064b2e39) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DShakeStop.cs using Guid(b191bb069dcb4420195550be064b2e39) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ec93f2cdb648beb3d6b6e8505ee35ca0') in 0.010566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DMoveCameraInstantlyToPosition.cs
+  artifactKey: Guid(2ef04aa5c9317403d9948b45d47f24ea) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DMoveCameraInstantlyToPosition.cs using Guid(2ef04aa5c9317403d9948b45d47f24ea) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b91f64aaeedaf94220374735ceeba79c') in 0.010490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/ZoomToFit.unity
+  artifactKey: Guid(8af9eda63dc3f4515a12fde0ba667053) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/ZoomToFit.unity using Guid(8af9eda63dc3f4515a12fde0ba667053) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1fdfbe313a9d23eabc984cacdbaec30a') in 0.010069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Materials/EnemyBullet.mat
+  artifactKey: Guid(3c8011d4f9b7c4b8c877f9462928cc41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Materials/EnemyBullet.mat using Guid(3c8011d4f9b7c4b8c877f9462928cc41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ea28f985592dd6c8badb9df82d96210c') in 0.006866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/ProCamera2D/Code/Core/ISizeOverrider.cs
+  artifactKey: Guid(2fa9ca6042aa143529e3cb816d3b4cae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/ISizeOverrider.cs using Guid(2fa9ca6042aa143529e3cb816d3b4cae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b60c4a50f2539d06329055ba7e36df4d') in 0.008296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/ProCamera2D/Code/Core/ConstantShakePreset.cs
+  artifactKey: Guid(2b203a55d908247b5a828b0c77fca2c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/ConstantShakePreset.cs using Guid(2b203a55d908247b5a828b0c77fca2c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c14c742b815d9dfff3ce9f5efc768fa5') in 0.011190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/Parallax/ProCamera2DParallaxObject.cs
+  artifactKey: Guid(8d1877ba63b794fb7b73c35629719a64) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/Parallax/ProCamera2DParallaxObject.cs using Guid(8d1877ba63b794fb7b73c35629719a64) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '61a52d657ea65be4e0463355d66615f9') in 0.008544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ProCamera2D/Presets/ConstantShake/EarthquakeHard.asset
+  artifactKey: Guid(95769aec75c2d49ddb90af1600d6496c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/ConstantShake/EarthquakeHard.asset using Guid(95769aec75c2d49ddb90af1600d6496c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8c4d8730c8a62acaa20e3c05d9720fc8') in 0.011416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/Shake.unity
+  artifactKey: Guid(4ab750c0bd2fd4da8ada2428cb963107) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/Shake.unity using Guid(4ab750c0bd2fd4da8ada2428cb963107) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5eb848cd4cde7cbd4046fbb3465c6064') in 0.010216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(c84c005330cd4514a935e25bfd62e034) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Level2.unity using Guid(c84c005330cd4514a935e25bfd62e034) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b743f03053065d5fbd67bae4d837aa33') in 0.008288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/ProCamera2D/Code/Core/ShakePreset.cs
+  artifactKey: Guid(cbf2b71a297b84564b930517da7ba2d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/ShakePreset.cs using Guid(cbf2b71a297b84564b930517da7ba2d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '26c29f8dea46c9d79b01aac116978ea0') in 0.006538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_exclusive.png
+  artifactKey: Guid(8425a5251e48a41579b9be9f6d2cee8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_exclusive.png using Guid(8425a5251e48a41579b9be9f6d2cee8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1fb8ef850e102360c53d3834364cb335') in 0.009645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Prefabs/PlayerBot.prefab
+  artifactKey: Guid(08ff08ed9391c42049d5ec42d74090e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Prefabs/PlayerBot.prefab using Guid(08ff08ed9391c42049d5ec42d74090e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '54fb0d8daabab57d231d1a9dbcfdc768') in 0.008316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scripts/Player/PlayerInput.cs
+  artifactKey: Guid(d91034b9a81704c0c939e2fe1516455f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scripts/Player/PlayerInput.cs using Guid(d91034b9a81704c0c939e2fe1516455f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6000563605f7d925922b4ec02b00f74f') in 0.010518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyWander.cs
+  artifactKey: Guid(0593f0cb075b14c009fbe3ce5eaabebf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyWander.cs using Guid(0593f0cb075b14c009fbe3ce5eaabebf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ad1e90f305de9bb32ff708046246c1fd') in 0.008687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Prefabs/Ground.prefab
+  artifactKey: Guid(bcf76ac284aeb12419e7520237c2f747) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/Ground.prefab using Guid(bcf76ac284aeb12419e7520237c2f747) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1a1ff26bac43c55b902433ce6ebf6021') in 0.007792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a83f6172d7c0fc0465d5984b05dc4889') in 0.007888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Materials/Enemy.mat
+  artifactKey: Guid(0fa5ff7aa969b4d188c2aa982854ed99) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Materials/Enemy.mat using Guid(0fa5ff7aa969b4d188c2aa982854ed99) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3672c2a4f274312cefe32cb0767024ba') in 0.007811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DRemoveCameraTarget.cs
+  artifactKey: Guid(183d96d52e20d4c5ca947e21a3e9fc00) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DRemoveCameraTarget.cs using Guid(183d96d52e20d4c5ca947e21a3e9fc00) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1f1360a8fe1c3802127684344381bcc4') in 0.007721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ProCamera2D/Presets/Shake/SmallExplosion.asset
+  artifactKey: Guid(bdeb758c7bbd24b29bc19493062ef65e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/Shake/SmallExplosion.asset using Guid(bdeb758c7bbd24b29bc19493062ef65e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3d2ef1c9994cde9a263319f45f70cf8a') in 0.009031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Scripts/New Multiplier Holder.asset
+  artifactKey: Guid(9ce2d7f6c2b6a944a9d0e4d880d15874) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/New Multiplier Holder.asset using Guid(9ce2d7f6c2b6a944a9d0e4d880d15874) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '23d5f3d26109a79dc752d674d382ad4a') in 0.010666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/ScriptableObjectUtility.cs
+  artifactKey: Guid(8350fbe69d9444d73a37d4be985af32f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/ScriptableObjectUtility.cs using Guid(8350fbe69d9444d73a37d4be985af32f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3b3d0eec8525b9a7b0cbb7db9bd25ce1') in 0.007339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Materials/MountainLight.mat
+  artifactKey: Guid(324e14e3cf7d04e48957864aa672e90c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Materials/MountainLight.mat using Guid(324e14e3cf7d04e48957864aa672e90c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'da1058447046e865f500b23b5e4322e2') in 0.008427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/ConstantShakePresetEditor.cs
+  artifactKey: Guid(85cdbf63cb8f64a508a733af6bd0f58e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/ConstantShakePresetEditor.cs using Guid(85cdbf63cb8f64a508a733af6bd0f58e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1c467e1478cb25e60e4342d8ed6fdd23') in 0.011949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyPatrol.cs
+  artifactKey: Guid(4b87f48aa5b4c49ada8a12a40848bf25) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyPatrol.cs using Guid(4b87f48aa5b4c49ada8a12a40848bf25) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e9dc24c9948aa4782307d5f61562522e') in 0.008984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/ProCamera2DTransitionsFXMaterial.mat
+  artifactKey: Guid(3a08940ebc9914ff7b06aecb5ee9e944) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/ProCamera2DTransitionsFXMaterial.mat using Guid(3a08940ebc9914ff7b06aecb5ee9e944) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '450c6a2f1055672023f2ab5851441b28') in 0.010936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Pool/PoolMember.cs
+  artifactKey: Guid(2f0ed1897ab02461183d3c6e6b981f44) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Pool/PoolMember.cs using Guid(2f0ed1897ab02461183d3c6e6b981f44) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '93fc5ad0e65e039c85066776fbf06565') in 0.006616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Scripts/SendLevelWin.cs
+  artifactKey: Guid(97a5b204dc674df41a872f5b087b8e73) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/SendLevelWin.cs using Guid(97a5b204dc674df41a872f5b087b8e73) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0935bb8c5487a47dc6d5a0dc4af4d630') in 0.007869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Scripts/Locomotion.cs
+  artifactKey: Guid(b32d2ed7ed5bab049a4d85aaaee13d62) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Locomotion.cs using Guid(b32d2ed7ed5bab049a4d85aaaee13d62) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a680719378d481cdefeb5d2afc1e6045') in 0.007040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Scenes/Win.unity
+  artifactKey: Guid(cd4cb747a4e439a45ae326f62d043c56) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Win.unity using Guid(cd4cb747a4e439a45ae326f62d043c56) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '117416e58aecf411df223ac41bd0ca45') in 0.007238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DLimitSpeed.cs
+  artifactKey: Guid(f3bb06cc0151646ae82d5728cf6479b9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DLimitSpeed.cs using Guid(f3bb06cc0151646ae82d5728cf6479b9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd32c209aaee909a1ac82738369aa3bd6') in 0.010110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Prefabs/IncreaseJumpBox.prefab
+  artifactKey: Guid(a1ce5c3c01abfd54f99ec6a19ecc8909) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/IncreaseJumpBox.prefab using Guid(a1ce5c3c01abfd54f99ec6a19ecc8909) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '28f69f0c7abfc668fa07b8e3d53631c4') in 0.009945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/LimitDistance.unity
+  artifactKey: Guid(aee6eacc017a34bbcb36be5e1de66c84) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/LimitDistance.unity using Guid(aee6eacc017a34bbcb36be5e1de66c84) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7b5339316fcf2dc9a2d52516555f9f07') in 0.010320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scenes/TopDownShooter/NavMesh.asset
+  artifactKey: Guid(f0aa64146b34c481b8fda113d99791fc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scenes/TopDownShooter/NavMesh.asset using Guid(f0aa64146b34c481b8fda113d99791fc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f65ad0a771f6b338145329546c8d14dc') in 0.010188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/ProCamera2D/Presets/ConstantShake/EarthquakeSoft.asset
+  artifactKey: Guid(57d1bc348b84d48feaec92922c5473d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Presets/ConstantShake/EarthquakeSoft.asset using Guid(57d1bc348b84d48feaec92922c5473d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ed97bb0b09f5ba34b78ee232acafff2d') in 0.007450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyFSM.cs
+  artifactKey: Guid(e946a0f41f0fe4390a946ec4bb71c996) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Enemy/EnemyFSM.cs using Guid(e946a0f41f0fe4390a946ec4bb71c996) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '917ef26f065c27bafd8646816724e0be') in 0.010238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DRepeaterEditor.cs
+  artifactKey: Guid(393d9ed651d964b8ebd96b556d461df9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DRepeaterEditor.cs using Guid(393d9ed651d964b8ebd96b556d461df9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6e0365c69bdbad755700df7efd6e7eca') in 0.009953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/ProCamera2D/TransitionFX Textures/README.txt
+  artifactKey: Guid(1bef86dbdc18242729ef392729a12794) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/TransitionFX Textures/README.txt using Guid(1bef86dbdc18242729ef392729a12794) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a91f17ceaff598ad426b07477d2e4f1c') in 0.007057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Prefabs/Wall.prefab
+  artifactKey: Guid(7a6a7a413ee1e034d945b5c25f8c383a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/Wall.prefab using Guid(7a6a7a413ee1e034d945b5c25f8c383a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '40d087a8c8ba45471571c680a1f9b18d') in 0.007440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Gizmos/ProCamera2D/pro_camera_2d_plugin_icon.png
+  artifactKey: Guid(06630250d7ee2470285f59775795b437) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/pro_camera_2d_plugin_icon.png using Guid(06630250d7ee2470285f59775795b437) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '13d704882430d5c93c23257907fb5d52') in 0.007102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerBoundaries.cs
+  artifactKey: Guid(34b478e2db66d4cb7b7963570736e9e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerBoundaries.cs using Guid(34b478e2db66d4cb7b7963570736e9e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '272e68a256b380c9a96a84443c5d0ce0') in 0.009079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Documents/Platformer Project One Sheet.docx
+  artifactKey: Guid(56dca0aa9f789f1448eb9590c7f5d0ac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Documents/Platformer Project One Sheet.docx using Guid(56dca0aa9f789f1448eb9590c7f5d0ac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '97cb61986b0aa0cff879503bf14273ba') in 0.009205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/ProCamera2D/Code/Core/Utils/EditorPrefsX.cs
+  artifactKey: Guid(0cc1f1523bb654cfa9771ed42e226719) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Utils/EditorPrefsX.cs using Guid(0cc1f1523bb654cfa9771ed42e226719) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd7421ee8099ebbf778182ddb69c5a03a') in 0.007044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/TriggerBoundaries.unity
+  artifactKey: Guid(669ca3a290b324962ae177f2f1d880af) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/TriggerBoundaries.unity using Guid(669ca3a290b324962ae177f2f1d880af) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1db9cb3a92657e24c1def25ecd5de1a4') in 0.010563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DGeometryBoundaries.cs
+  artifactKey: Guid(d86bf0beadb1248c2a5d9f2fe72189fa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DGeometryBoundaries.cs using Guid(d86bf0beadb1248c2a5d9f2fe72189fa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '290a2f6f448efa1fd71373bfe5ec8361') in 0.008106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DLimitDistanceEditor.cs
+  artifactKey: Guid(a02f82477f4d04eac8783a722a5016c9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DLimitDistanceEditor.cs using Guid(a02f82477f4d04eac8783a722a5016c9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6438e867cb1d7c066d3b9972a648ffa6') in 0.011201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scripts/Player/PlayerInputBot.cs
+  artifactKey: Guid(591f7e47384a84b1b8c46d50437c1d4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scripts/Player/PlayerInputBot.cs using Guid(591f7e47384a84b1b8c46d50437c1d4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f7d27aa62539c45f26a49452798ec4a0') in 0.009351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Scripts/EventHandler.cs
+  artifactKey: Guid(06c96120757cd824186e3dc8285546ea) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/EventHandler.cs using Guid(06c96120757cd824186e3dc8285546ea) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2a25659a302c91ecabae91eb8b6946d8') in 0.006511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/ProCamera2DNumericBoundaries.cs
+  artifactKey: Guid(6903f12ac8ae44a41ba2a44700ec60ed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/ProCamera2DNumericBoundaries.cs using Guid(6903f12ac8ae44a41ba2a44700ec60ed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fcb3a34cc155f8f9881f4ba8d755fb77') in 0.010719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Scripts/LoadLevel.cs
+  artifactKey: Guid(d64c3608999c47545b3c8ef13deaf27a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/LoadLevel.cs using Guid(d64c3608999c47545b3c8ef13deaf27a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e85463a6f0c718b696bab2001804ad75') in 0.006535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(5ee38e036893f1545b9d22a7a9e4b478) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/Player.prefab using Guid(5ee38e036893f1545b9d22a7a9e4b478) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c6e63d752aaa2fdb5022c1446f2b8f11') in 0.008738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Prefabs/Main Camera.prefab
+  artifactKey: Guid(fa7f5216fa3032e479d0f45bf409f1df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/Main Camera.prefab using Guid(fa7f5216fa3032e479d0f45bf409f1df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8e7cc10dbf50ee47734cde1b09a3454d') in 0.007812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/Parallax.unity
+  artifactKey: Guid(eb5951c9a84dc40a19f3fa7848e47baf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/Parallax.unity using Guid(eb5951c9a84dc40a19f3fa7848e47baf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f07dea78202268b81842d137167d8ec7') in 0.009147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Textures/Triangle.png
+  artifactKey: Guid(1f0081b11fbc24f21be87b8cfb313a31) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Textures/Triangle.png using Guid(1f0081b11fbc24f21be87b8cfb313a31) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '798cea590e0b34584456f7d946538971') in 0.011951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Player/PlayerInput.cs
+  artifactKey: Guid(b4ec74b66098a4f9eb5b9370cb16ebf6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Player/PlayerInput.cs using Guid(b4ec74b66098a4f9eb5b9370cb16ebf6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9e3ce8c3b8bb4a96abb1e3f88a2f9f42') in 0.006348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ProCamera2D/TransitionFX Textures/batman_steps.png
+  artifactKey: Guid(5f7bae03f95c343528851fa30ae3a2a2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/TransitionFX Textures/batman_steps.png using Guid(5f7bae03f95c343528851fa30ae3a2a2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '86e4ed2ecdb3d39691a79ddd1e00c28c') in 0.007527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Fade.shader
+  artifactKey: Guid(231866eed574e4a93b410bd871690e1e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Fade.shader using Guid(231866eed574e4a93b410bd871690e1e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '57c4ca397ff6c36cc2055c3f239dc98b') in 0.009835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Shaders/Ground.shadergraph
+  artifactKey: Guid(e07a6358ecb00b9428388fa91af456c3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Shaders/Ground.shadergraph using Guid(e07a6358ecb00b9428388fa91af456c3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0c4326b94baee8e8981f1c3526e31e3c') in 0.007260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DCameraWindowEditor.cs
+  artifactKey: Guid(8e60d5f5492994506bd228ba9c488515) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Extensions/Editor/ProCamera2DCameraWindowEditor.cs using Guid(8e60d5f5492994506bd228ba9c488515) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dd860479d84994fc8b1b273fd705e8b5') in 0.009185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_influence.png
+  artifactKey: Guid(95d2331b299ce4e8883143c3248741d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_influence.png using Guid(95d2331b299ce4e8883143c3248741d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '35fe96da9e36f8512319f82d73f0d34f') in 0.007124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Player/PlayerFire.cs
+  artifactKey: Guid(c8b08415e633a4d27a4a801090003559) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Player/PlayerFire.cs using Guid(c8b08415e633a4d27a4a801090003559) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'af07cab72081121f9fe33330dc80b0d4') in 0.007731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Materials/MountainDark.mat
+  artifactKey: Guid(594ce61ded4ec41909c36faf018dfd3f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Materials/MountainDark.mat using Guid(594ce61ded4ec41909c36faf018dfd3f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9a34eb873f7fd61ded5f104bf93e468b') in 0.009775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(8c07d42b8f8ee284f86a728afc7c158a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Level1.unity using Guid(8c07d42b8f8ee284f86a728afc7c158a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a8947456c6d4b3b50cda3d109909ae68') in 0.006891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/Pixel Perfect/ProCamera2DPixelPerfectSprite.cs
+  artifactKey: Guid(4695037a2aece46e6bbdf2cbb78dc2da) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/Pixel Perfect/ProCamera2DPixelPerfectSprite.cs using Guid(4695037a2aece46e6bbdf2cbb78dc2da) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1dc2e84c00ad642c72143ebee4cde35e') in 0.016676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Prefabs/Player.prefab
+  artifactKey: Guid(8908020d16c0f48eca7a7ffe52b9a680) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Prefabs/Player.prefab using Guid(8908020d16c0f48eca7a7ffe52b9a680) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c3bceded766f368d7b53041f7054814f') in 0.014576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/RotateTowardsMouse.cs
+  artifactKey: Guid(f1f5040f4d22548648ed3625055f61ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/RotateTowardsMouse.cs using Guid(f1f5040f4d22548648ed3625055f61ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c0ceccb1538d8e751c579e75a9bfcbb5') in 0.018011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/Cinematics.unity
+  artifactKey: Guid(1e3307701dc734f67bd8f7132d3f664c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/Cinematics.unity using Guid(1e3307701dc734f67bd8f7132d3f664c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9e7265fb381097a274b8d36ddb77a1e5') in 0.010220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_bound_right.png
+  artifactKey: Guid(d56b9ee72bc9d45c5927e0724c14e54d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_bound_right.png using Guid(d56b9ee72bc9d45c5927e0724c14e54d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2898522da85369b097ef5bc023dc56de') in 0.011253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DRoomsEnter.cs
+  artifactKey: Guid(1a6b301ab1517497bb75f6809b277e07) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DRoomsEnter.cs using Guid(1a6b301ab1517497bb75f6809b277e07) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a7ecac932d67e6623d88deae58383b61') in 0.014826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Bullet.cs
+  artifactKey: Guid(9a0ded119c90246fd80b4cc1969ee26a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Bullet.cs using Guid(9a0ded119c90246fd80b4cc1969ee26a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'afdbbd5452f03ec20facd04200608bdf') in 0.014193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Materials/Walls.mat
+  artifactKey: Guid(f55c4d26159b348748a4ce6e97625c9e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Materials/Walls.mat using Guid(f55c4d26159b348748a4ce6e97625c9e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd8073b5aacb49e4a74d5df20994d37b0') in 0.013662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DAddCameraTarget.cs
+  artifactKey: Guid(4b9d0af69ef224d5da85cdf74efcc18e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/3rd Party Plugins Support/PlayMakerActions/PC2DAddCameraTarget.cs using Guid(4b9d0af69ef224d5da85cdf74efcc18e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8fbd93e10dd51743dfced240ad27cf5c') in 0.009898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ProCamera2D/Code/Core/Editor/ShakePresetEditor.cs
+  artifactKey: Guid(cfffbde034de349769157a64cd484ae9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/Editor/ShakePresetEditor.cs using Guid(cfffbde034de349769157a64cd484ae9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0f44b8dc4f1453e00e8996ff5679ef08') in 0.014933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerRails.cs
+  artifactKey: Guid(8b7e101cf63d740019ea10c81f38f8ef) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Triggers/ProCamera2DTriggerRails.cs using Guid(8b7e101cf63d740019ea10c81f38f8ef) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b6f1954037d8bad858dc0761a8066ed9') in 0.011792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/ProCamera2D/Code/Core/IPositionDeltaChanger.cs
+  artifactKey: Guid(115d44f578d1f4b0895ea97e52aaff1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/IPositionDeltaChanger.cs using Guid(115d44f578d1f4b0895ea97e52aaff1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '26dc7b9f6dd1e78b347ee1c5ae6e6c8d') in 0.013807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Player/PlayerHealth.cs
+  artifactKey: Guid(a91f77722c3ad48e3b7f7c3dbe368d59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/Player/PlayerHealth.cs using Guid(a91f77722c3ad48e3b7f7c3dbe368d59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '199ccb1b40bc0509bf6a9c897e9d2630') in 0.010347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/DoorKey.cs
+  artifactKey: Guid(9b0ea0dd6be1d431097deb32225b6230) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/DoorKey.cs using Guid(9b0ea0dd6be1d431097deb32225b6230) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '60fc339860da2ce4581de9294ecad65e') in 0.011021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/BasicBlit.cs
+  artifactKey: Guid(6725ec8ba7ec346269e03a744226f7a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/BasicBlit.cs using Guid(6725ec8ba7ec346269e03a744226f7a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7ea7adf99b1e365412609ba71bfc688f') in 0.007473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Gizmos/ProCamera2D/gizmo_icon_bound_bottom.png
+  artifactKey: Guid(c627a8a53aa294a70a36056c104b3b5a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Gizmos/ProCamera2D/gizmo_icon_bound_bottom.png using Guid(c627a8a53aa294a70a36056c104b3b5a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3572b8688b1957ca546252fd3cf6418a') in 0.008653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/ProCamera2D/Code/Core/IPostMover.cs
+  artifactKey: Guid(bfb0d95b2946d4048b4a72b3c5c88a4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/IPostMover.cs using Guid(bfb0d95b2946d4048b4a72b3c5c88a4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cc26fa527fdb11480ac41c22526d2338') in 0.006948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Wipe.shader
+  artifactKey: Guid(5c7573986b4d441ceb333c3ca55ffb23) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Wipe.shader using Guid(5c7573986b4d441ceb333c3ca55ffb23) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '07f91037cd2acc30efbffef635b4c3e3') in 0.009719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ProCamera2D/Code/Core/BaseTrigger.cs
+  artifactKey: Guid(b36ebbbf1bc7e4c5e8cbd8a2b01ac67d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/BaseTrigger.cs using Guid(b36ebbbf1bc7e4c5e8cbd8a2b01ac67d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ac6440bf64f83156e3079654fba91708') in 0.009469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/ProCamera2D/Code/Core/BoundariesAnimator.cs
+  artifactKey: Guid(189a6e28bac9643759ef1b01a4328d01) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Core/BoundariesAnimator.cs using Guid(189a6e28bac9643759ef1b01a4328d01) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '22d78d59ba9097634480a91f6fa80620') in 0.008209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/ProCamera2D/Examples/TopDownShooter/Scripts/ObjectMove.cs
+  artifactKey: Guid(9ec9e58af22ac4e79a5b2e414d9eac13) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/TopDownShooter/Scripts/ObjectMove.cs using Guid(9ec9e58af22ac4e79a5b2e414d9eac13) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6a0622897067d5f24a206bb9d8807191') in 0.009438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Blinds.shader
+  artifactKey: Guid(6ccd0ab907f1343429283f8585be3b24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Code/Helpers/TransitionFX/Resources/PC2D_Blinds.shader using Guid(6ccd0ab907f1343429283f8585be3b24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a67d0071a09c5c348b5fbfb51e03b79e') in 0.008016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/ProCamera2D/Examples/Platformer/Scenes/TriggerInfluence.unity
+  artifactKey: Guid(beba8074644d440dab4d9e26e1843713) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/ProCamera2D/Examples/Platformer/Scenes/TriggerInfluence.unity using Guid(beba8074644d440dab4d9e26e1843713) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9d76438ce52bfcf398f6fc6d2b792a5e') in 0.009949 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.133735 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.045 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3045ms)
+		BeginReloadAssembly (270ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (101ms)
+		EndReloadAssembly (2607ms)
+			LoadAssemblies (416ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1342ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (524ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (122ms)
+				ProcessInitializeOnLoadAttributes (355ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3438 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.3 MB.
+System memory in use after: 149.5 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3973.
+Total: 5.736000 ms (FindLiveObjects: 0.289200 ms CreateObjectMapping: 0.193800 ms MarkObjects: 4.891700 ms  DeleteObjects: 0.359900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

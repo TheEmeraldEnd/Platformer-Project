@@ -1,0 +1,5 @@
+Pro Camera 2D - The definitive 2D & 2.5D camera plugin for Unity by Luís Pedro Fonseca
+Unity engine by Unity
+Game by Sage Derby
+Analytics By Unity
+URP By Unity
